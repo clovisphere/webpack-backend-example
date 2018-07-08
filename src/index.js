@@ -1,4 +1,4 @@
-import * as mysql from 'mysql2' 
+import * as mysql from 'mysql2';
 
 let data = () => {
     const con = mysql.createConnection({
