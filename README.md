@@ -37,6 +37,13 @@ data();
 git clone https://github.com/clovisphere/webpack-backend-example.git && cd webpack-backend-example
 ```
 
+#### Prerequisite
+```
+nvm install
+nvm use
+npm install
+```
+
 #### Build
 ```
 npm run build
