@@ -3,8 +3,8 @@ import * as mysql from 'mysql2'
 let data = () => {
     const con = mysql.createConnection({
         // update accordingly
-        host: 'localhost',
-        user: 'root',
+        host: '',
+        user: '',
         password: '',
         database: ''
     });
